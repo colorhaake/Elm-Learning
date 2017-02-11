@@ -1,0 +1,6 @@
+# OSX
+#
+.DS_Store
+
+# elm package
+elm-stuff/
